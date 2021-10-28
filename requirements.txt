@@ -1,3 +1,0 @@
-python: 3.9 and above
-
-modules : pyautogui, discord.py

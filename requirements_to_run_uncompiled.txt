@@ -1,0 +1,5 @@
+running a copy of Microsoft Windows
+
+python: 3.9 and above
+
+modules : pyautogui, discord.py
